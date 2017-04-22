@@ -1,4 +1,7 @@
-# api documentation for  [drag-and-drop-files (v0.0.1)](https://github.com/mikolalysenko/drag-and-drop-files#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-drag-and-drop-files.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-drag-and-drop-files) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-drag-and-drop-files.svg)](https://travis-ci.org/npmdoc/node-npmdoc-drag-and-drop-files)
+# npmdoc-drag-and-drop-files
+
+#### api documentation for  [drag-and-drop-files (v0.0.1)](https://github.com/mikolalysenko/drag-and-drop-files#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-drag-and-drop-files.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-drag-and-drop-files) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-drag-and-drop-files.svg)](https://travis-ci.org/npmdoc/node-npmdoc-drag-and-drop-files)
+
 #### Handle file drag and drop events without all the Yak shaving
 
 [![NPM](https://nodei.co/npm/drag-and-drop-files.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/drag-and-drop-files)
@@ -61,7 +64,8 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "0.0.1"
+    "version": "0.0.1",
+    "bin": {}
 }
 ```
 
